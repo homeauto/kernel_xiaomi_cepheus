@@ -1,0 +1,18 @@
+# Aliases extracted from modules themselves.
+alias pci:v000010ECd00008191sv*sd*bc*sc*i* rtl8192ce
+alias pci:v000010ECd00008178sv*sd*bc*sc*i* rtl8192ce
+alias pci:v000010ECd00008177sv*sd*bc*sc*i* rtl8192ce
+alias pci:v000010ECd00008176sv*sd*bc*sc*i* rtl8192ce
+alias pci:v000010ECd00008192sv*sd*bc*sc*i* rtl8192se
+alias pci:v000010ECd00008171sv*sd*bc*sc*i* rtl8192se
+alias pci:v000010ECd00008172sv*sd*bc*sc*i* rtl8192se
+alias pci:v000010ECd00008173sv*sd*bc*sc*i* rtl8192se
+alias pci:v000010ECd00008174sv*sd*bc*sc*i* rtl8192se
+alias pci:v000010ECd00008193sv*sd*bc*sc*i* rtl8192de
+alias pci:v000010ECd0000002Bsv*sd*bc*sc*i* rtl8192de
+alias pci:v000010ECd00008723sv*sd*bc*sc*i* rtl8723ae
+alias pci:v000010ECd0000B723sv*sd*bc*sc*i* rtl8723be
+alias pci:v000010ECd00008179sv*sd*bc*sc*i* rtl8188ee
+alias pci:v000010ECd00008812sv*sd*bc*sc*i* rtl8821ae
+alias pci:v000010ECd00008821sv*sd*bc*sc*i* rtl8821ae
+alias pci:v000010ECd0000818Bsv*sd*bc*sc*i* rtl8192ee
